@@ -36,7 +36,7 @@ using Valve.VR;
 using static iiMenu.Classes.RigManager;
 
 /*
-ii's Stupid Menu, written by @goldentrophy
+ii's Stupid Menu, written by @realsoloo
 Any comments are dev comments I wrote
 Most comments are used to find certain parts of code faster with Ctrl + F
 Feel free to read them if you want
@@ -375,7 +375,7 @@ namespace iiMenu.Menu
                         }
                         motdTC.richText = true;
                         motdTC.fontSize = 70;
-                        motdTC.text = "Thanks for using ii's <b>Stupid</b> Menu!";
+                        motdTC.text = "Thanks for using super<b>solo</b> Menu!";
                         if (doCustomName)
                         {
                             motdTC.text = "Thanks for using " + customMenuName + "!";
