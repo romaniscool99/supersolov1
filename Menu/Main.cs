@@ -359,7 +359,7 @@ namespace iiMenu.Menu
                             OrangeUI.color = GetBGColor(0f);
                         } else
                         {
-                            OrangeUI.color = new Color32(0, 59, 4, 255);
+                            OrangeUI.color = new Color32(0, 0, 0, 0);
                         }
 
                         if (motd == null)
