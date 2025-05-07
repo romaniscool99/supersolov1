@@ -17,10 +17,10 @@ namespace iiMenu.UI
 {
     public class Main : MonoBehaviour
     {
-        private string inputText = "goldentrophy";
+        private string inputText = "realsoloo";
 
-        private string r = "255";
-        private string g = "128";
+        private string r = "0";
+        private string g = "0";
         private string b = "0";
 
         public static bool isOpen = true;
